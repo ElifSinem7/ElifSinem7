@@ -89,9 +89,9 @@ status: Open to internship opportunities 🟢
     <td>Ensemble methods, Kaggle pipelines, feature engineering</td>
   </tr>
   <tr>
-    <td align="center">🌐</td>
-    <td><b>Portfolio</b></td>
-    <td>Personal developer portfolio showcasing projects and research</td>
+    <td align="center">🎙️</td>
+    <td><b>AcoustiGuard</b></td>
+    <td>Acoustic anomaly detection on Raspberry Pi 4 + Arduino — Isolation Forest, MIMII & CWRU datasets, UART + MQTT pipeline</td>
   </tr>
 </table>
 
