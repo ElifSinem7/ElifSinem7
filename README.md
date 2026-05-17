@@ -4,7 +4,7 @@
 <!-- SOCIAL BADGES -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/elif-sinem-gen%C3%A7/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elif-sinem-gen%C3%A7/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/ElifSinem7/MyPortfolio)
 [![Email](https://img.shields.io/badge/Open%20to%20Internships-238636?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elifsinem07@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=ElifSinem7&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS)](https://github.com/ElifSinem7)
