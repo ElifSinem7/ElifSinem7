@@ -1,14 +1,12 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Elif+Sinem+%F0%9F%91%8B;ML+%26+Embedded+Systems+Engineer;TÜBİTAK+Researcher;Always+learning%2C+always+building." alt="Typing SVG" />
-</a>
+# Elif Sinem Genç
 
-<br/>
+**Computer Engineering @ Abdullah Gül University '27**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/elif-sinem-gen%C3%A7/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](file:///C:/Users/elifs/OneDrive/Masa%C3%BCst%C3%BC/portfolio.html)
-[![Email](https://img.shields.io/badge/Open%20to%20Internships-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elifsinem07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SENIN-ADRESIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://elifsinem7.github.io)
+[![Mail](https://img.shields.io/badge/Open%20to%20Internships-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SENIN-MAILIN)
 
 </div>
 
@@ -23,31 +21,18 @@ Previously interned at **Turkcell** (AI-powered enterprise chatbot platform with
 
 ### 🛠 Tech stack
 
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript&theme=dark" />
-
-**ML / AI**
-
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&theme=dark" />
-
-**Backend & DevOps**
-
-<img src="https://skillicons.dev/icons?i=fastapi,docker,postgres,linux,git&theme=dark" />
-
-**Embedded & IoT**
-
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark" />
-
-</div>
+| Category | Tools |
+|---|---|
+| **ML / AI** | Python · PyTorch · scikit-learn · XGBoost · SHAP · LLaMA 3.1 |
+| **Backend** | FastAPI · PostgreSQL · Docker · MQTT |
+| **Embedded** | Raspberry Pi · Arduino · C/C++ · PlatformIO |
+| **Tools** | Streamlit · Git · Linux · Kaggle |
 
 ---
 
 ### 🔭 Currently working on
 
-- 🔬 **TÜBİTAK 2209-A** — XAI & anomaly detection for Turkish social media NLP (BERTurk + SHAP)
+- 🔬 **TÜBİTAK 2209-A** — XAI & anomaly detection for Turkish social media NLP
 - 📊 **ECE 564** — Ensemble methods, Kaggle mini-projects, ML pipelines
 
 ---
@@ -56,31 +41,14 @@ Previously interned at **Turkcell** (AI-powered enterprise chatbot platform with
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ElifSinem7&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElifSinem7&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+![ElifSinem7's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElifSinem7&show_icons=true&theme=github_dark&hide_border=true)
 
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ElifSinem7&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### 🐍 Contribution graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElifSinem7/ElifSinem7/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElifSinem7/ElifSinem7/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ElifSinem7/ElifSinem7/output/github-snake.svg" />
-</picture>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElifSinem7&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ElifSinem7&style=flat-square&color=1f6feb" alt="profile views" />
+<i>Open to internship opportunities in ML, embedded systems, and backend development.</i>
 </div>
