@@ -4,9 +4,9 @@
 
 **Computer Engineering @ Abdullah Gül University '27**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SENIN-ADRESIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://elifsinem7.github.io)
-[![Mail](https://img.shields.io/badge/Open%20to%20Internships-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SENIN-MAILIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SENIN-ADRESIN](https://www.linkedin.com/in/elif-sinem-gen%C3%A7/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)]([https://elifsinem7.github.io](https://github.com/ElifSinem7/MyPortfolio))
+[![Mail](https://img.shields.io/badge/Open%20to%20Internships-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elifsinem07@gmail.com)
 
 </div>
 
