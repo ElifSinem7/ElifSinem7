@@ -81,12 +81,14 @@
 
 ## 💼 Experience
 | Turkcell          │ AI Software Intern       │ 2026 |
+
 | OBT Teknoloji     │ Frontend & ML Intern     │ 2025 |
+
 | TÜBİTAK 2209-A   │ Undergraduate Researcher │ 2026-present |
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/📍%20Kayseri,%20Turkey-gray?style=flat-square"/>
+  <img src="https://img.shields.io/badge/📍%20Antalya,%20Turkey-gray?style=flat-square"/>
   <br/><br/>
   <i>"Building things that think and things that sense."</i>
 </div>
