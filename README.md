@@ -25,6 +25,7 @@ interests:
   - Federated Learning & Edge AI / TinyML
   - Embedded Systems & IoT
   - Large Language Models
+  - Parallel Architectures
 internships:
   - Turkcell: AI Chatbot Platform (LLaMA 3.1 + FastAPI + MCP)
   - OBT Teknoloji: Frontend & ML Integration
