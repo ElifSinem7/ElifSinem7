@@ -18,7 +18,7 @@
 name: Elif Sinem Genç
 location: Antalya, Turkey 📍
 university: Abdullah Gül University — Computer Engineering '27
-role: ML Researcher & Embedded Systems Developer
+role: ML Engineer, LLM applications, explainable AI, and edge AI
 research: TÜBİTAK 2209-A — XAI & NLP Anomaly Detection
 interests:
   - Explainable AI (SHAP, Attention Visualization)
