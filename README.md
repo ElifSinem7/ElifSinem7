@@ -84,14 +84,14 @@ status: Open to full-time / new grad roles 🟢
     <td>XAI & anomaly detection for Turkish social media NLP — BERTurk + SHAP + Federated Learning</td>
   </tr>
   <tr>
-    <td align="center">📊</td>
-    <td><b>ECE 564 ML Course</b></td>
-    <td>Ensemble methods, Kaggle pipelines, feature engineering</td>
+    <td align="center">🚦</td>
+    <td><b>Capstone — Federated MARL Traffic Control</b></td>
+    <td>Adaptive signal control for real Kayseri intersections — SUMO digital twins, hierarchical multi-agent RL, personalized federated learning (FedPer)</td>
   </tr>
   <tr>
-    <td align="center">🎙️</td>
-    <td><b>AcoustiGuard</b></td>
-    <td>Acoustic anomaly detection on Raspberry Pi 4 + Arduino — Isolation Forest, MIMII & CWRU datasets, UART + MQTT pipeline</td>
+    <td align="center">🎥</td>
+    <td><b>Traffic Digital Twin</b></td>
+    <td>SUMO simulation of a real Bellevue (WA) intersection, synchronized side by side with live traffic camera footage</td>
   </tr>
 </table>
 
