@@ -29,7 +29,7 @@ interests:
 internships:
   - Turkcell: AI Chatbot Platform (LLaMA 3.1 + FastAPI + MCP)
   - OBT Teknoloji: Frontend & ML Integration
-status: Open to internship opportunities 🟢
+status: Open to full-time / new grad roles 🟢
 ```
 
 <br/>
